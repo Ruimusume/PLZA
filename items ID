@@ -1,0 +1,294 @@
+ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
+1	0001	大师球	マスターボール	Master Ball		ZA
+2	0002	高级球	ハイパーボール	Ultra Ball		ZA
+3	0003	超级球	スーパーボール	Great Ball		ZA
+4	0004	精灵球	モンスターボール	Poké Ball		ZA
+5	0005	狩猎球	サファリボール	Safari Ball		ZA
+6	0006	捕网球	ネットボール	Net Ball		ZA
+7	0007	潜水球	ダイブボール	Dive Ball		ZA
+8	0008	巢穴球	ネストボール	Nest Ball		ZA
+9	0009	重复球	リピートボール	Repeat Ball		ZA
+10	000A	计时球	タイマーボール	Timer Ball		ZA
+11	000B	豪华球	ゴージャスボール	Luxury Ball		ZA
+12	000C	纪念球	プレミアボール	Premier Ball		ZA
+13	000D	黑暗球	ダークボール	Dusk Ball		ZA
+14	000E	治愈球	ヒールボール	Heal Ball		ZA
+15	000F	先机球	クイックボール	Quick Ball		ZA
+16	0010	贵重球	プレシャスボール	Cherish Ball		ZA
+17	0011	伤药	キズぐすり	Potion		ZA
+18	0012	解毒药	どくけし	Antidote		ZA
+19	0013	灼伤药	やけどなおし	Burn Heal		ZA
+20	0014	解冻药	こおりなおし	Ice Heal		ZA
+21	0015	解眠药	ねむけざまし	Awakening		ZA
+22	0016	解麻药	まひなおし	Paralyze Heal		ZA
+23	0017	全复药	かいふくのくすり	Full Restore		ZA
+24	0018	全满药	まんたんのくすり	Max Potion		ZA
+25	0019	厉害伤药	すごいキズぐすり	Hyper Potion		ZA
+26	001A	好伤药	いいキズぐすり	Super Potion		ZA
+27	001B	万灵药	なんでもなおし	Full Heal		ZA
+28	001C	活力碎片	げんきのかけら	Revive		ZA
+29	001D	活力块	げんきのかたまり	Max Revive		ZA
+30	001E	美味之水	おいしいみず	Fresh Water		ZA
+31	001F	劲爽汽水	サイコソーダ	Soda Pop		ZA
+32	0020	果汁牛奶	ミックスオレ	Lemonade		ZA
+33	0021	哞哞鲜奶	モーモーミルク	Moomoo Milk		ZA
+45	002D	ＨＰ增强剂	マックスアップ	HP Up		ZA
+46	002E	攻击增强剂	タウリン	Protein		ZA
+47	002F	防御增强剂	ブロムヘキシン	Iron		ZA
+48	0030	速度增强剂	インドメタシン	Carbos		ZA
+49	0031	特攻增强剂	リゾチウム	Calcium		ZA
+50	0032	神奇糖果	ふしぎなアメ	Rare Candy		ZA
+52	0034	特防增强剂	キトサン	Zinc		ZA
+80	0050	日之石	たいようのいし	Sun Stone		ZA
+81	0051	月之石	つきのいし	Moon Stone		ZA
+82	0052	火之石	ほのおのいし	Fire Stone		ZA
+83	0053	雷之石	かみなりのいし	Thunder Stone		ZA
+84	0054	水之石	みずのいし	Water Stone		ZA
+85	0055	叶之石	リーフのいし	Leaf Stone		ZA
+86	0056	小蘑菇	ちいさなキノコ	Tiny Mushroom		ZA
+88	0058	珍珠	しんじゅ	Pearl		ZA
+89	0059	大珍珠	おおきなしんじゅ	Big Pearl		ZA
+92	005C	金珠	きんのたま	Nugget		ZA
+103	0067	秘密琥珀	ひみつのコハク	Old Amber		ZA
+107	006B	光之石	ひかりのいし	Shiny Stone		ZA
+108	006C	暗之石	やみのいし	Dusk Stone		ZA
+109	006D	觉醒之石	めざめいし	Dawn Stone		ZA
+149	0095	樱子果	クラボのみ	Cheri Berry		ZA
+150	0096	零余果	カゴのみ	Chesto Berry		ZA
+151	0097	桃桃果	モモンのみ	Pecha Berry		ZA
+152	0098	莓莓果	チーゴのみ	Rawst Berry		ZA
+153	0099	利木果	ナナシのみ	Aspear Berry		ZA
+155	009B	橙橙果	オレンのみ	Oran Berry		ZA
+156	009C	柿仔果	キーのみ	Persim Berry		ZA
+157	009D	木子果	ラムのみ	Lum Berry		ZA
+158	009E	文柚果	オボンのみ	Sitrus Berry		ZA
+169	00A9	榴石果	ザロクのみ	Pomeg Berry		ZA
+170	00AA	藻根果	ネコブのみ	Kelpsy Berry		ZA
+171	00AB	比巴果	タポルのみ	Qualot Berry		ZA
+172	00AC	哈密果	ロメのみ	Hondew Berry		ZA
+173	00AD	萄葡果	ウブのみ	Grepa Berry		ZA
+174	00AE	茄番果	マトマのみ	Tamato Berry		ZA
+184	00B8	巧可果	オッカのみ	Occa Berry		ZA
+185	00B9	千香果	イトケのみ	Passho Berry		ZA
+186	00BA	烛木果	ソクノのみ	Wacan Berry		ZA
+187	00BB	罗子果	リンドのみ	Rindo Berry		ZA
+188	00BC	番荔果	ヤチェのみ	Yache Berry		ZA
+189	00BD	莲蒲果	ヨプのみ	Chople Berry		ZA
+190	00BE	通通果	ビアーのみ	Kebia Berry		ZA
+191	00BF	腰木果	シュカのみ	Shuca Berry		ZA
+192	00C0	棱瓜果	バコウのみ	Coba Berry		ZA
+193	00C1	福禄果	ウタンのみ	Payapa Berry		ZA
+194	00C2	扁樱果	タンガのみ	Tanga Berry		ZA
+195	00C3	草蚕果	ヨロギのみ	Charti Berry		ZA
+196	00C4	佛柑果	カシブのみ	Kasib Berry		ZA
+197	00C5	莓榴果	ハバンのみ	Haban Berry		ZA
+198	00C6	刺耳果	ナモのみ	Colbur Berry		ZA
+199	00C7	霹霹果	リリバのみ	Babiri Berry		ZA
+200	00C8	灯浆果	ホズのみ	Chilan Berry		ZA
+214	00D6	白色香草	しろいハーブ	White Herb		ZA
+217	00D9	先制之爪	せんせいのツメ	Quick Claw		ZA
+218	00DA	安抚之铃	やすらぎのすず	Soothe Bell		ZA
+221	00DD	王者之证	おうじゃのしるし	King’s Rock		ZA
+222	00DE	银粉	ぎんのこな	Silver Powder		ZA
+230	00E6	气势头带	きあいのハチマキ	Focus Band		ZA
+231	00E7	幸运蛋	しあわせタマゴ	Lucky Egg		ZA
+232	00E8	焦点镜	ピントレンズ	Scope Lens		ZA
+233	00E9	金属膜	メタルコート	Metal Coat		ZA
+234	00EA	吃剩的东西	たべのこし	Leftovers		ZA
+236	00EC	电气球	でんきだま	Light Ball		ZA
+237	00ED	柔软沙子	やわらかいすな	Soft Sand		ZA
+238	00EE	硬石头	かたいいし	Hard Stone		ZA
+239	00EF	奇迹种子	きせきのタネ	Miracle Seed		ZA
+240	00F0	黑色眼镜	くろいメガネ	Black Glasses		ZA
+241	00F1	黑带	くろおび	Black Belt		ZA
+242	00F2	磁铁	じしゃく	Magnet		ZA
+243	00F3	神秘水滴	しんぴのしずく	Mystic Water		ZA
+244	00F4	锐利鸟嘴	するどいくちばし	Sharp Beak		ZA
+245	00F5	毒针	どくバリ	Poison Barb		ZA
+246	00F6	不融冰	とけないこおり	Never-Melt Ice		ZA
+247	00F7	咒术之符	のろいのおふだ	Spell Tag		ZA
+248	00F8	弯曲的汤匙	まがったスプーン	Twisted Spoon		ZA
+249	00F9	木炭	もくたん	Charcoal		ZA
+250	00FA	龙之牙	りゅうのキバ	Dragon Fang		ZA
+251	00FB	丝绸围巾	シルクのスカーフ	Silk Scarf		ZA
+253	00FD	贝壳之铃	かいがらのすず	Shell Bell		ZA
+266	010A	力量头带	ちからのハチマキ	Muscle Band		ZA
+267	010B	博识眼镜	ものしりメガネ	Wise Glasses		ZA
+268	010C	达人带	たつじんのおび	Expert Belt		ZA
+270	010E	生命宝珠	いのちのたま	Life Orb		ZA
+275	0113	气势披带	きあいのタスキ	Focus Sash		ZA
+289	0121	力量护腕	パワーリスト	Power Bracer		ZA
+290	0122	力量腰带	パワーベルト	Power Belt		ZA
+291	0123	力量镜	パワーレンズ	Power Lens		ZA
+292	0124	力量束带	パワーバンド	Power Band		ZA
+293	0125	力量护踝	パワーアンクル	Power Anklet		ZA
+294	0126	力量负重	パワーウエイト	Power Weight		ZA
+296	0128	大根茎	おおきなねっこ	Big Root		ZA
+328	0148	招式学习器００１	わざマシン００１	TM001		ZA
+329	0149	招式学习器００２	わざマシン００２	TM002		ZA
+330	014A	招式学习器００３	わざマシン００３	TM003		ZA
+332	014C	招式学习器００５	わざマシン００５	TM005		ZA
+333	014D	招式学习器００６	わざマシン００６	TM006		ZA
+334	014E	招式学习器００７	わざマシン００７	TM007		ZA
+335	014F	招式学习器００８	わざマシン００８	TM008		ZA
+338	0152	招式学习器０１１	わざマシン０１１	TM011		ZA
+345	0159	招式学习器０１８	わざマシン０１８	TM018		ZA
+349	015D	招式学习器０２２	わざマシン０２２	TM022		ZA
+350	015E	招式学习器０２３	わざマシン０２３	TM023		ZA
+351	015F	招式学习器０２４	わざマシン０２４	TM024		ZA
+353	0161	招式学习器０２６	わざマシン０２６	TM026		ZA
+357	0165	招式学习器０３０	わざマシン０３０	TM030		ZA
+401	0191	招式学习器０７４	わざマシン０７４	TM074		ZA
+403	0193	招式学习器０７６	わざマシン０７６	TM076		ZA
+421	01A5	秘传学习器０２	ひでんマシン０２	HM02		ZA
+492	01EC	速度球	スピードボール	Fast Ball		ZA
+493	01ED	等级球	レベルボール	Level Ball		ZA
+494	01EE	诱饵球	ルアーボール	Lure Ball		ZA
+495	01EF	沉重球	ヘビーボール	Heavy Ball		ZA
+496	01F0	甜蜜球	ラブラブボール	Love Ball		ZA
+497	01F1	友友球	フレンドボール	Friend Ball		ZA
+498	01F2	月亮球	ムーンボール	Moon Ball		ZA
+499	01F3	竞赛球	コンペボール	Sport Ball		ZA
+538	021A	进化奇石	しんかのきせき	Eviolite		ZA
+540	021C	凸凸头盔	ゴツゴツメット	Rocky Helmet		ZA
+564	0234	一般宝石	ノーマルジュエル	Normal Gem		ZA
+565	0235	体力之羽	たいりょくのハネ	Health Feather		ZA
+566	0236	肌力之羽	きんりょくのハネ	Muscle Feather		ZA
+567	0237	抵抗之羽	ていこうのハネ	Resist Feather		ZA
+568	0238	智力之羽	ちりょくのハネ	Genius Feather		ZA
+569	0239	精神之羽	せいしんのハネ	Clever Feather		ZA
+570	023A	瞬发之羽	しゅんぱつのハネ	Swift Feather		ZA
+571	023B	美丽之羽	きれいなハネ	Pretty Feather		ZA
+576	0240	梦境球	ドリームボール	Dream Ball		ZA
+581	0245	巨大金珠	でかいきんのたま	Big Nugget		ZA
+582	0246	丸子珍珠	おだんごしんじゅ	Pearl String		ZA
+632	0278	闪耀护符	ひかるおまもり	Shiny Charm		ZA
+639	027F	弱点保险	じゃくてんほけん	Weakness Policy		ZA
+640	0280	突击背心	とつげきチョッキ	Assault Vest		ZA
+646	0286	泡沫奶油	ホイップポップ	Whipped Dream		ZA
+647	0287	香袋	においぶくろ	Sachet		ZA
+656	0290	耿鬼进化石	ゲンガナイト	Gengarite		ZA
+657	0291	沙奈朵进化石	サーナイトナイト	Gardevoirite		ZA
+658	0292	电龙进化石	デンリュウナイト	Ampharosite		ZA
+659	0293	妙蛙花进化石	フシギバナイト	Venusaurite		ZA
+660	0294	喷火龙进化石Ｘ	リザードナイトＸ	Charizardite X		ZA
+661	0295	水箭龟进化石	カメックスナイト	Blastoisinite		ZA
+662	0296	超梦进化石Ｘ	ミュウツナイトＸ	Mewtwonite X		ZA
+663	0297	超梦进化石Ｙ	ミュウツナイトＹ	Mewtwonite Y		ZA
+665	0299	恰雷姆进化石	チャーレムナイト	Medichamite		ZA
+666	029A	黑鲁加进化石	ヘルガナイト	Houndoominite		ZA
+667	029B	波士可多拉进化石	ボスゴドラナイト	Aggronite		ZA
+668	029C	诅咒娃娃进化石	ジュペッタナイト	Banettite		ZA
+669	029D	班基拉斯进化石	バンギラスナイト	Tyranitarite		ZA
+670	029E	巨钳螳螂进化石	ハッサムナイト	Scizorite		ZA
+671	029F	凯罗斯进化石	カイロスナイト	Pinsirite		ZA
+672	02A0	化石翼龙进化石	プテラナイト	Aerodactylite		ZA
+673	02A1	路卡利欧进化石	ルカリオナイト	Lucarionite		ZA
+674	02A2	暴雪王进化石	ユキノオナイト	Abomasite		ZA
+675	02A3	袋兽进化石	ガルーラナイト	Kangaskhanite		ZA
+676	02A4	暴鲤龙进化石	ギャラドスナイト	Gyaradosite		ZA
+677	02A5	阿勃梭鲁进化石	アブソルナイト	Absolite		ZA
+678	02A6	喷火龙进化石Ｙ	リザードナイトＹ	Charizardite Y		ZA
+679	02A7	胡地进化石	フーディナイト	Alakazite		ZA
+680	02A8	赫拉克罗斯进化石	ヘラクロスナイト	Heracronite		ZA
+681	02A9	大嘴娃进化石	クチートナイト	Mawilite		ZA
+682	02AA	雷电兽进化石	ライボルトナイト	Manectite		ZA
+683	02AB	烈咬陆鲨进化石	ガブリアスナイト	Garchompite		ZA
+686	02AE	洛玫果	ロゼルのみ	Roseli Berry		ZA
+693	02B5	招式学习器０９９	わざマシン０９９	TM099		ZA
+700	02BC	电梯钥匙	エレベータのキー	Elevator Key		ZA
+708	02C4	密阿雷格雷派饼	ミアレガレット	Lumiose Galette		ZA
+710	02C6	颚之化石	アゴのカセキ	Jaw Fossil		ZA
+711	02C7	鳍之化石	ヒレのカセキ	Sail Fossil		ZA
+754	02F2	勾魂眼进化石	ヤミラミナイト	Sablenite		ZA
+755	02F3	七夕青鸟进化石	チルタリスナイト	Altarianite		ZA
+756	02F4	艾路雷朵进化石	エルレイドナイト	Galladite		ZA
+757	02F5	差不多娃娃进化石	タブンネナイト	Audinite		ZA
+758	02F6	巨金怪进化石	メタグロスナイト	Metagrossite		ZA
+759	02F7	巨牙鲨进化石	サメハダナイト	Sharpedonite		ZA
+760	02F8	呆壳兽进化石	ヤドランナイト	Slowbronite		ZA
+761	02F9	大钢蛇进化石	ハガネールナイト	Steelixite		ZA
+762	02FA	大比鸟进化石	ピジョットナイト	Pidgeotite		ZA
+763	02FB	冰鬼护进化石	オニゴーリナイト	Glalitite		ZA
+764	02FC	蒂安希进化石	ディアンシナイト	Diancite		ZA
+765	02FD	惩戒之壶	いましめのツボ	Prison Bottle		ZA
+767	02FF	喷火驼进化石	バクーダナイト	Cameruptite		ZA
+768	0300	长耳兔进化石	ミミロップナイト	Lopunnite		ZA
+769	0301	暴飞龙进化石	ボーマンダナイト	Salamencite		ZA
+770	0302	大针蜂进化石	スピアナイト	Beedrillite		ZA
+795	031B	银色王冠	ぎんのおうかん	Bottle Cap		ZA
+796	031C	金色王冠	きんのおうかん	Gold Bottle Cap		ZA
+847	034F	基格尔德多面体	ジガルデキューブ	Zygarde Cube		ZA
+849	0351	冰之石	こおりのいし	Ice Stone		ZA
+851	0353	究极球	ウルトラボール	Beast Ball		ZA
+1124	0464	经验糖果ＸＳ	けいけんアメＸＳ	Exp. Candy XS		ZA
+1125	0465	经验糖果Ｓ	けいけんアメＳ	Exp. Candy S		ZA
+1126	0466	经验糖果Ｍ	けいけんアメＭ	Exp. Candy M		ZA
+1127	0467	经验糖果Ｌ	けいけんアメＬ	Exp. Candy L		ZA
+1128	0468	经验糖果ＸＬ	けいけんアメＸＬ	Exp. Candy XL		ZA
+1231	04CF	怕寂寞薄荷	さみしがりミント	Lonely Mint		ZA
+1235	04D3	大胆薄荷	ずぶといミント	Bold Mint		ZA
+1239	04D7	内敛薄荷	ひかえめミント	Modest Mint		ZA
+1243	04DB	温和薄荷	おだやかミント	Calm Mint		ZA
+1247	04DF	胆小薄荷	おくびょうミント	Timid Mint		ZA
+1251	04E3	认真薄荷	まじめミント	Serious Mint		ZA
+1582	062E	伽勒豆蔻手环	ガラナツブレス	Galarica Cuff		ZA
+1592	0638	伽勒豆蔻花圈	ガラナツリース	Galarica Wreath		ZA
+1785	06F9	奇异球	ストレンジボール	Strange Ball		ZA
+2401	0961	妖精之羽	ようせいのハネ	Fairy Feather		ZA
+2558	09FE	精通种子	かいでんのタネ	Seed of Mastery		ZA
+2559	09FF	皮可西进化石	ピクシナイト	Clefablite		ZA
+2560	0A00	大食花进化石	ウツボットナイト	Victreebelite		ZA
+2561	0A01	宝石海星进化石	スターミナイト	Starminite		ZA
+2562	0A02	快龙进化石	カイリュナイト	Dragoninite		ZA
+2563	0A03	大竺葵进化石	メガニウムナイト	Meganiumite		ZA
+2564	0A04	大力鳄进化石	オーダイルナイト	Feraligite		ZA
+2565	0A05	盔甲鸟进化石	エアームドナイト	Skarmorite		ZA
+2566	0A06	雪妖女进化石	ユキメノコナイト	Froslassite		ZA
+2569	0A09	炎武王进化石	エンブオナイト	Emboarite		ZA
+2570	0A0A	龙头地鼠进化石	ドリュウズナイト	Excadrite		ZA
+2571	0A0B	蜈蚣王进化石	ペンドラナイト	Scolipite		ZA
+2572	0A0C	头巾混混进化石	ズルズキナイト	Scraftinite		ZA
+2573	0A0D	麻麻鳗鱼王进化石	シビルドナイト	Eelektrossite		ZA
+2574	0A0E	水晶灯火灵进化石	シャンデラナイト	Chandelurite		ZA
+2575	0A0F	布里卡隆进化石	ブリガロナイト	Chesnaughtite		ZA
+2576	0A10	妖火红狐进化石	マフォクシナイト	Delphoxite		ZA
+2577	0A11	甲贺忍蛙进化石	ゲッコウガナイト	Greninjite		ZA
+2578	0A12	火炎狮进化石	カエンジシナイト	Pyroarite		ZA
+2579	0A13	花叶蒂进化石	フラエッテナイト	Floettite		ZA
+2580	0A14	乌贼王进化石	カラマネナイト	Malamarite		ZA
+2581	0A15	龟足巨铠进化石	ガメノデスナイト	Barbaracite		ZA
+2582	0A16	毒藻龙进化石	ドラミドナイト	Dragalgite		ZA
+2583	0A17	摔角鹰人进化石	ルチャブルナイト	Hawluchanite		ZA
+2584	0A18	基格尔德进化石	ジガルデナイト	Zygardite		ZA
+2585	0A19	老翁龙进化石	ジジーロナイト	Drampanite		ZA
+2587	0A1B	列阵兵进化石	タイレーツナイト	Falinksite		ZA
+2588	0A1C	２０２号客房的钥匙	２０２ごうしつのカギ	Key to Room 202		ZA
+2589	0A1D	厉害密阿雷格雷派饼	すごいミアレガレット	Super Lumiose Galette		ZA
+2590	0A1E	研究所的钥匙卡Ａ	ラボのカードキーＡ	Lab Key Card A		ZA
+2591	0A1F	研究所的钥匙卡Ｂ	ラボのカードキーＢ	Lab Key Card B		ZA
+2592	0A20	研究所的钥匙卡Ｃ	ラボのカードキーＣ	Lab Key Card C		ZA
+2593	0A21				暂无	ZA
+2594	0A22				暂无	ZA
+2595	0A23	小石头	いしころ	Pebble		ZA
+2596	0A24	纪念戒指	おもいでのゆびわ	Cherished Ring		ZA
+2598	0A26	美味垃圾	おいしいゴミ	Tasty Trash		ZA
+2599	0A27	活力小树枝	げんきのこえだ	Revitalizing Twig		ZA
+2600	0A28	玳萝的遗忘物	デウロのわすれもの	Lida’s Things		ZA
+2618	0A3A	超级碎片	メガカケラ	Mega Shard		ZA
+2619	0A3B	彩色螺丝	カラフルなネジ	Colorful Screw		ZA
+2620	0A3C	红色卡娜莉玩偶	あかのカナリィぬい	Red Canari Plush		ZA
+2621	0A3D	红色卡娜莉玩偶	あかのカナリィぬい	Red Canari Plush		ZA
+2622	0A3E	红色卡娜莉玩偶	あかのカナリィぬい	Red Canari Plush		ZA
+2623	0A3F	金色卡娜莉玩偶	きんのカナリィぬい	Gold Canari Plush		ZA
+2624	0A40	金色卡娜莉玩偶	きんのカナリィぬい	Gold Canari Plush		ZA
+2625	0A41	金色卡娜莉玩偶	きんのカナリィぬい	Gold Canari Plush		ZA
+2626	0A42	粉红色卡娜莉玩偶	ピンクのカナリィぬい	Pink Canari Plush		ZA
+2627	0A43	粉红色卡娜莉玩偶	ピンクのカナリィぬい	Pink Canari Plush		ZA
+2628	0A44	粉红色卡娜莉玩偶	ピンクのカナリィぬい	Pink Canari Plush		ZA
+2629	0A45	绿色卡娜莉玩偶	みどりのカナリィぬい	Green Canari Plush		ZA
+2630	0A46	绿色卡娜莉玩偶	みどりのカナリィぬい	Green Canari Plush		ZA
+2631	0A47	绿色卡娜莉玩偶	みどりのカナリィぬい	Green Canari Plush		ZA
+2632	0A48	蓝色卡娜莉玩偶	あおのカナリィぬい	Blue Canari Plush		ZA
+2633	0A49	蓝色卡娜莉玩偶	あおのカナリィぬい	Blue Canari Plush		ZA
+2634	0A4A	蓝色卡娜莉玩偶	あおのカナリィぬい	Blue Canari Plush		ZA
