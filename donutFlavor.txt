@@ -1,0 +1,281 @@
+Alpha Power (Lv. 1)	オヤブンパワー Lv.1	우두머리 파워 Lv.1	头目力 Lv.1	頭目力 Lv.1
+Alpha Power (Lv. 2)	オヤブンパワー Lv.2	우두머리 파워 Lv.2	头目力 Lv.2	頭目力 Lv.2
+Alpha Power (Lv. 3)	オヤブンパワー Lv.3	우두머리 파워 Lv.3	头目力 Lv.3	頭目力 Lv.3
+Sparkling Power: Normal (Lv. 1)	かがやきパワー：ノーマル Lv.1	반짝반짝 파워: 노말 Lv.1	闪耀力：一般 Lv.1	閃耀力：一般 Lv.1
+Sparkling Power: Normal (Lv. 2)	かがやきパワー：ノーマル Lv.2	반짝반짝 파워: 노말 Lv.2	闪耀力：一般 Lv.2	閃耀力：一般 Lv.2
+Sparkling Power: Normal (Lv. 3)	かがやきパワー：ノーマル Lv.3	반짝반짝 파워: 노말 Lv.3	闪耀力：一般 Lv.3	閃耀力：一般 Lv.3
+Sparkling Power: Fire (Lv. 1)	かがやきパワー：ほのお Lv.1	반짝반짝 파워: 불꽃 Lv.1	闪耀力：火 Lv.1	閃耀力：火 Lv.1
+Sparkling Power: Fire (Lv. 2)	かがやきパワー：ほのお Lv.2	반짝반짝 파워: 불꽃 Lv.2	闪耀力：火 Lv.2	閃耀力：火 Lv.2
+Sparkling Power: Fire (Lv. 3)	かがやきパワー：ほのお Lv.3	반짝반짝 파워: 불꽃 Lv.3	闪耀力：火 Lv.3	閃耀力：火 Lv.3
+Sparkling Power: Water (Lv. 1)	かがやきパワー：みず Lv.1	반짝반짝 파워: 물 Lv.1	闪耀力：水 Lv.1	閃耀力：水 Lv.1
+Sparkling Power: Water (Lv. 2)	かがやきパワー：みず Lv.2	반짝반짝 파워: 물 Lv.2	闪耀力：水 Lv.2	閃耀力：水 Lv.2
+Sparkling Power: Water (Lv. 3)	かがやきパワー：みず Lv.3	반짝반짝 파워: 물 Lv.3	闪耀力：水 Lv.3	閃耀力：水 Lv.3
+Sparkling Power: Electric (Lv. 1)	かがやきパワー：でんき Lv.1	반짝반짝 파워: 전기 Lv.1	闪耀力：电 Lv.1	閃耀力：電 Lv.1
+Sparkling Power: Electric (Lv. 2)	かがやきパワー：でんき Lv.2	반짝반짝 파워: 전기 Lv.2	闪耀力：电 Lv.2	閃耀力：電 Lv.2
+Sparkling Power: Electric (Lv. 3)	かがやきパワー：でんき Lv.3	반짝반짝 파워: 전기 Lv.3	闪耀力：电 Lv.3	閃耀力：電 Lv.3
+Sparkling Power: Grass (Lv. 1)	かがやきパワー：くさ Lv.1	반짝반짝 파워: 풀 Lv.1	闪耀力：草 Lv.1	閃耀力：草 Lv.1
+Sparkling Power: Grass (Lv. 2)	かがやきパワー：くさ Lv.2	반짝반짝 파워: 풀 Lv.2	闪耀力：草 Lv.2	閃耀力：草 Lv.2
+Sparkling Power: Grass (Lv. 3)	かがやきパワー：くさ Lv.3	반짝반짝 파워: 풀 Lv.3	闪耀力：草 Lv.3	閃耀力：草 Lv.3
+Sparkling Power: Ice (Lv. 1)	かがやきパワー：こおり Lv.1	반짝반짝 파워: 얼음 Lv.1	闪耀力：冰 Lv.1	閃耀力：冰 Lv.1
+Sparkling Power: Ice (Lv. 2)	かがやきパワー：こおり Lv.2	반짝반짝 파워: 얼음 Lv.2	闪耀力：冰 Lv.2	閃耀力：冰 Lv.2
+Sparkling Power: Ice (Lv. 3)	かがやきパワー：こおり Lv.3	반짝반짝 파워: 얼음 Lv.3	闪耀力：冰 Lv.3	閃耀力：冰 Lv.3
+Sparkling Power: Fighting (Lv. 1)	かがやきパワー：かくとう Lv.1	반짝반짝 파워: 격투 Lv.1	闪耀力：格斗 Lv.1	閃耀力：格鬥 Lv.1
+Sparkling Power: Fighting (Lv. 2)	かがやきパワー：かくとう Lv.2	반짝반짝 파워: 격투 Lv.2	闪耀力：格斗 Lv.2	閃耀力：格鬥 Lv.2
+Sparkling Power: Fighting (Lv. 3)	かがやきパワー：かくとう Lv.3	반짝반짝 파워: 격투 Lv.3	闪耀力：格斗 Lv.3	閃耀力：格鬥 Lv.3
+Sparkling Power: Poison (Lv. 1)	かがやきパワー：どく Lv.1	반짝반짝 파워: 독 Lv.1	闪耀力：毒 Lv.1	閃耀力：毒 Lv.1
+Sparkling Power: Poison (Lv. 2)	かがやきパワー：どく Lv.2	반짝반짝 파워: 독 Lv.2	闪耀力：毒 Lv.2	閃耀力：毒 Lv.2
+Sparkling Power: Poison (Lv. 3)	かがやきパワー：どく Lv.3	반짝반짝 파워: 독 Lv.3	闪耀力：毒 Lv.3	閃耀力：毒 Lv.3
+Sparkling Power: Ground (Lv. 1)	かがやきパワー：じめん Lv.1	반짝반짝 파워: 땅 Lv.1	闪耀力：地面 Lv.1	閃耀力：地面 Lv.1
+Sparkling Power: Ground (Lv. 2)	かがやきパワー：じめん Lv.2	반짝반짝 파워: 땅 Lv.2	闪耀力：地面 Lv.2	閃耀力：地面 Lv.2
+Sparkling Power: Ground (Lv. 3)	かがやきパワー：じめん Lv.3	반짝반짝 파워: 땅 Lv.3	闪耀力：地面 Lv.3	閃耀力：地面 Lv.3
+Sparkling Power: Flying (Lv. 1)	かがやきパワー：ひこう Lv.1	반짝반짝 파워: 비행 Lv.1	闪耀力：飞行 Lv.1	閃耀力：飛行 Lv.1
+Sparkling Power: Flying (Lv. 2)	かがやきパワー：ひこう Lv.2	반짝반짝 파워: 비행 Lv.2	闪耀力：飞行 Lv.2	閃耀力：飛行 Lv.2
+Sparkling Power: Flying (Lv. 3)	かがやきパワー：ひこう Lv.3	반짝반짝 파워: 비행 Lv.3	闪耀力：飞行 Lv.3	閃耀力：飛行 Lv.3
+Sparkling Power: Psychic (Lv. 1)	かがやきパワー：エスパー Lv.1	반짝반짝 파워: 에스퍼 Lv.1	闪耀力：超能力 Lv.1	閃耀力：超能力 Lv.1
+Sparkling Power: Psychic (Lv. 2)	かがやきパワー：エスパー Lv.2	반짝반짝 파워: 에스퍼 Lv.2	闪耀力：超能力 Lv.2	閃耀力：超能力 Lv.2
+Sparkling Power: Psychic (Lv. 3)	かがやきパワー：エスパー Lv.3	반짝반짝 파워: 에스퍼 Lv.3	闪耀力：超能力 Lv.3	閃耀力：超能力 Lv.3
+Sparkling Power: Bug (Lv. 1)	かがやきパワー：むし Lv.1	반짝반짝 파워: 벌레 Lv.1	闪耀力：虫 Lv.1	閃耀力：蟲 Lv.1
+Sparkling Power: Bug (Lv. 2)	かがやきパワー：むし Lv.2	반짝반짝 파워: 벌레 Lv.2	闪耀力：虫 Lv.2	閃耀力：蟲 Lv.2
+Sparkling Power: Bug (Lv. 3)	かがやきパワー：むし Lv.3	반짝반짝 파워: 벌레 Lv.3	闪耀力：虫 Lv.3	閃耀力：蟲 Lv.3
+Sparkling Power: Rock (Lv. 1)	かがやきパワー：いわ Lv.1	반짝반짝 파워: 바위 Lv.1	闪耀力：岩石 Lv.1	閃耀力：岩石 Lv.1
+Sparkling Power: Rock (Lv. 2)	かがやきパワー：いわ Lv.2	반짝반짝 파워: 바위 Lv.2	闪耀力：岩石 Lv.2	閃耀力：岩石 Lv.2
+Sparkling Power: Rock (Lv. 3)	かがやきパワー：いわ Lv.3	반짝반짝 파워: 바위 Lv.3	闪耀力：岩石 Lv.3	閃耀力：岩石 Lv.3
+Sparkling Power: Ghost (Lv. 1)	かがやきパワー：ゴースト Lv.1	반짝반짝 파워: 고스트 Lv.1	闪耀力：幽灵 Lv.1	閃耀力：幽靈 Lv.1
+Sparkling Power: Ghost (Lv. 2)	かがやきパワー：ゴースト Lv.2	반짝반짝 파워: 고스트 Lv.2	闪耀力：幽灵 Lv.2	閃耀力：幽靈 Lv.2
+Sparkling Power: Ghost (Lv. 3)	かがやきパワー：ゴースト Lv.3	반짝반짝 파워: 고스트 Lv.3	闪耀力：幽灵 Lv.3	閃耀力：幽靈 Lv.3
+Sparkling Power: Dragon (Lv. 1)	かがやきパワー：ドラゴン Lv.1	반짝반짝 파워: 드래곤 Lv.1	闪耀力：龙 Lv.1	閃耀力：龍 Lv.1
+Sparkling Power: Dragon (Lv. 2)	かがやきパワー：ドラゴン Lv.2	반짝반짝 파워: 드래곤 Lv.2	闪耀力：龙 Lv.2	閃耀力：龍 Lv.2
+Sparkling Power: Dragon (Lv. 3)	かがやきパワー：ドラゴン Lv.3	반짝반짝 파워: 드래곤 Lv.3	闪耀力：龙 Lv.3	閃耀力：龍 Lv.3
+Sparkling Power: Dark (Lv. 1)	かがやきパワー：あく Lv.1	반짝반짝 파워: 악 Lv.1	闪耀力：恶 Lv.1	閃耀力：惡 Lv.1
+Sparkling Power: Dark (Lv. 2)	かがやきパワー：あく Lv.2	반짝반짝 파워: 악 Lv.2	闪耀力：恶 Lv.2	閃耀力：惡 Lv.2
+Sparkling Power: Dark (Lv. 3)	かがやきパワー：あく Lv.3	반짝반짝 파워: 악 Lv.3	闪耀力：恶 Lv.3	閃耀力：惡 Lv.3
+Sparkling Power: Steel (Lv. 1)	かがやきパワー：はがね Lv.1	반짝반짝 파워: 강철 Lv.1	闪耀力：钢 Lv.1	閃耀力：鋼 Lv.1
+Sparkling Power: Steel (Lv. 2)	かがやきパワー：はがね Lv.2	반짝반짝 파워: 강철 Lv.2	闪耀力：钢 Lv.2	閃耀力：鋼 Lv.2
+Sparkling Power: Steel (Lv. 3)	かがやきパワー：はがね Lv.3	반짝반짝 파워: 강철 Lv.3	闪耀力：钢 Lv.3	閃耀力：鋼 Lv.3
+Sparkling Power: Fairy (Lv. 1)	かがやきパワー：フェアリー Lv.1	반짝반짝 파워: 페어리 Lv.1	闪耀力：妖精 Lv.1	閃耀力：妖精 Lv.1
+Sparkling Power: Fairy (Lv. 2)	かがやきパワー：フェアリー Lv.2	반짝반짝 파워: 페어리 Lv.2	闪耀力：妖精 Lv.2	閃耀力：妖精 Lv.2
+Sparkling Power: Fairy (Lv. 3)	かがやきパワー：フェアリー Lv.3	반짝반짝 파워: 페어리 Lv.3	闪耀力：妖精 Lv.3	閃耀力：妖精 Lv.3
+Sparkling Power: All Types (Lv. 1)	かがやきパワー：ぜんぶ Lv.1	반짝반짝 파워: 모든 타입 Lv.1	闪耀力：全属性 Lv.1	閃耀力：全屬性 Lv.1
+Sparkling Power: All Types (Lv. 2)	かがやきパワー：ぜんぶ Lv.2	반짝반짝 파워: 모든 타입 Lv.2	闪耀力：全属性 Lv.2	閃耀力：全屬性 Lv.2
+Sparkling Power: All Types (Lv. 3)	かがやきパワー：ぜんぶ Lv.3	반짝반짝 파워: 모든 타입 Lv.3	闪耀力：全属性 Lv.3	閃耀力：全屬性 Lv.3
+Attack Power (Lv. 1)	こうげきパワー Lv.1	공격 파워 Lv.1	攻击力 Lv.1	攻擊力 Lv.1
+Attack Power (Lv. 2)	こうげきパワー Lv.2	공격 파워 Lv.2	攻击力 Lv.2	攻擊力 Lv.2
+Attack Power (Lv. 3)	こうげきパワー Lv.3	공격 파워 Lv.3	攻击力 Lv.3	攻擊力 Lv.3
+Sp. Atk Power (Lv. 1)	とくこうパワー Lv.1	특수공격 파워 Lv.1	特攻力 Lv.1	特攻力 Lv.1
+Sp. Atk Power (Lv. 2)	とくこうパワー Lv.2	특수공격 파워 Lv.2	特攻力 Lv.2	特攻力 Lv.2
+Sp. Atk Power (Lv. 3)	とくこうパワー Lv.3	특수공격 파워 Lv.3	特攻力 Lv.3	特攻力 Lv.3
+Move Power: Normal (Lv. 1)	わざパワー：ノーマル Lv.1	기술 파워: 노말 Lv.1	招式力：一般 Lv.1	招式力：一般 Lv.1
+Move Power: Normal (Lv. 2)	わざパワー：ノーマル Lv.2	기술 파워: 노말 Lv.2	招式力：一般 Lv.2	招式力：一般 Lv.2
+Move Power: Normal (Lv. 3)	わざパワー：ノーマル Lv.3	기술 파워: 노말 Lv.3	招式力：一般 Lv.3	招式力：一般 Lv.3
+Move Power: Fire (Lv. 1)	わざパワー：ほのお Lv.1	기술 파워: 불꽃 Lv.1	招式力：火 Lv.1	招式力：火 Lv.1
+Move Power: Fire (Lv. 2)	わざパワー：ほのお Lv.2	기술 파워: 불꽃 Lv.2	招式力：火 Lv.2	招式力：火 Lv.2
+Move Power: Fire (Lv. 3)	わざパワー：ほのお Lv.3	기술 파워: 불꽃 Lv.3	招式力：火 Lv.3	招式力：火 Lv.3
+Move Power: Water (Lv. 1)	わざパワー：みず Lv.1	기술 파워: 물 Lv.1	招式力：水 Lv.1	招式力：水 Lv.1
+Move Power: Water (Lv. 2)	わざパワー：みず Lv.2	기술 파워: 물 Lv.2	招式力：水 Lv.2	招式力：水 Lv.2
+Move Power: Water (Lv. 3)	わざパワー：みず Lv.3	기술 파워: 물 Lv.3	招式力：水 Lv.3	招式力：水 Lv.3
+Move Power: Electric (Lv. 1)	わざパワー：でんき Lv.1	기술 파워: 전기 Lv.1	招式力：电 Lv.1	招式力：電 Lv.1
+Move Power: Electric (Lv. 2)	わざパワー：でんき Lv.2	기술 파워: 전기 Lv.2	招式力：电 Lv.2	招式力：電 Lv.2
+Move Power: Electric (Lv. 3)	わざパワー：でんき Lv.3	기술 파워: 전기 Lv.3	招式力：电 Lv.3	招式力：電 Lv.3
+Move Power: Grass (Lv. 1)	わざパワー：くさ Lv.1	기술 파워: 풀 Lv.1	招式力：草 Lv.1	招式力：草 Lv.1
+Move Power: Grass (Lv. 2)	わざパワー：くさ Lv.2	기술 파워: 풀 Lv.2	招式力：草 Lv.2	招式力：草 Lv.2
+Move Power: Grass (Lv. 3)	わざパワー：くさ Lv.3	기술 파워: 풀 Lv.3	招式力：草 Lv.3	招式力：草 Lv.3
+Move Power: Ice (Lv. 1)	わざパワー：こおり Lv.1	기술 파워: 얼음 Lv.1	招式力：冰 Lv.1	招式力：冰 Lv.1
+Move Power: Ice (Lv. 2)	わざパワー：こおり Lv.2	기술 파워: 얼음 Lv.2	招式力：冰 Lv.2	招式力：冰 Lv.2
+Move Power: Ice (Lv. 3)	わざパワー：こおり Lv.3	기술 파워: 얼음 Lv.3	招式力：冰 Lv.3	招式力：冰 Lv.3
+Move Power: Fighting (Lv. 1)	わざパワー：かくとう Lv.1	기술 파워: 격투 Lv.1	招式力：格斗 Lv.1	招式力：格鬥 Lv.1
+Move Power: Fighting (Lv. 2)	わざパワー：かくとう Lv.2	기술 파워: 격투 Lv.2	招式力：格斗 Lv.2	招式力：格鬥 Lv.2
+Move Power: Fighting (Lv. 3)	わざパワー：かくとう Lv.3	기술 파워: 격투 Lv.3	招式力：格斗 Lv.3	招式力：格鬥 Lv.3
+Move Power: Poison (Lv. 1)	わざパワー：どく Lv.1	기술 파워: 독 Lv.1	招式力：毒 Lv.1	招式力：毒 Lv.1
+Move Power: Poison (Lv. 2)	わざパワー：どく Lv.2	기술 파워: 독 Lv.2	招式力：毒 Lv.2	招式力：毒 Lv.2
+Move Power: Poison (Lv. 3)	わざパワー：どく Lv.3	기술 파워: 독 Lv.3	招式力：毒 Lv.3	招式力：毒 Lv.3
+Move Power: Ground (Lv. 1)	わざパワー：じめん Lv.1	기술 파워: 땅 Lv.1	招式力：地面 Lv.1	招式力：地面 Lv.1
+Move Power: Ground (Lv. 2)	わざパワー：じめん Lv.2	기술 파워: 땅 Lv.2	招式力：地面 Lv.2	招式力：地面 Lv.2
+Move Power: Ground (Lv. 3)	わざパワー：じめん Lv.3	기술 파워: 땅 Lv.3	招式力：地面 Lv.3	招式力：地面 Lv.3
+Move Power: Flying (Lv. 1)	わざパワー：ひこう Lv.1	기술 파워: 비행 Lv.1	招式力：飞行 Lv.1	招式力：飛行 Lv.1
+Move Power: Flying (Lv. 2)	わざパワー：ひこう Lv.2	기술 파워: 비행 Lv.2	招式力：飞行 Lv.2	招式力：飛行 Lv.2
+Move Power: Flying (Lv. 3)	わざパワー：ひこう Lv.3	기술 파워: 비행 Lv.3	招式力：飞行 Lv.3	招式力：飛行 Lv.3
+Move Power: Psychic (Lv. 1)	わざパワー：エスパー Lv.1	기술 파워: 에스퍼 Lv.1	招式力：超能力 Lv.1	招式力：超能力 Lv.1
+Move Power: Psychic (Lv. 2)	わざパワー：エスパー Lv.2	기술 파워: 에스퍼 Lv.2	招式力：超能力 Lv.2	招式力：超能力 Lv.2
+Move Power: Psychic (Lv. 3)	わざパワー：エスパー Lv.3	기술 파워: 에스퍼 Lv.3	招式力：超能力 Lv.3	招式力：超能力 Lv.3
+Move Power: Bug (Lv. 1)	わざパワー：むし Lv.1	기술 파워: 벌레 Lv.1	招式力：虫 Lv.1	招式力：蟲 Lv.1
+Move Power: Bug (Lv. 2)	わざパワー：むし Lv.2	기술 파워: 벌레 Lv.2	招式力：虫 Lv.2	招式力：蟲 Lv.2
+Move Power: Bug (Lv. 3)	わざパワー：むし Lv.3	기술 파워: 벌레 Lv.3	招式力：虫 Lv.3	招式力：蟲 Lv.3
+Move Power: Rock (Lv. 1)	わざパワー：いわ Lv.1	기술 파워: 바위 Lv.1	招式力：岩石 Lv.1	招式力：岩石 Lv.1
+Move Power: Rock (Lv. 2)	わざパワー：いわ Lv.2	기술 파워: 바위 Lv.2	招式力：岩石 Lv.2	招式力：岩石 Lv.2
+Move Power: Rock (Lv. 3)	わざパワー：いわ Lv.3	기술 파워: 바위 Lv.3	招式力：岩石 Lv.3	招式力：岩石 Lv.3
+Move Power: Ghost (Lv. 1)	わざパワー：ゴースト Lv.1	기술 파워: 고스트 Lv.1	招式力：幽灵 Lv.1	招式力：幽靈 Lv.1
+Move Power: Ghost (Lv. 2)	わざパワー：ゴースト Lv.2	기술 파워: 고스트 Lv.2	招式力：幽灵 Lv.2	招式力：幽靈 Lv.2
+Move Power: Ghost (Lv. 3)	わざパワー：ゴースト Lv.3	기술 파워: 고스트 Lv.3	招式力：幽灵 Lv.3	招式力：幽靈 Lv.3
+Move Power: Dragon (Lv. 1)	わざパワー：ドラゴン Lv.1	기술 파워: 드래곤 Lv.1	招式力：龙 Lv.1	招式力：龍 Lv.1
+Move Power: Dragon (Lv. 2)	わざパワー：ドラゴン Lv.2	기술 파워: 드래곤 Lv.2	招式力：龙 Lv.2	招式力：龍 Lv.2
+Move Power: Dragon (Lv. 3)	わざパワー：ドラゴン Lv.3	기술 파워: 드래곤 Lv.3	招式力：龙 Lv.3	招式力：龍 Lv.3
+Move Power: Dark (Lv. 1)	わざパワー：あく Lv.1	기술 파워: 악 Lv.1	招式力：恶 Lv.1	招式力：惡 Lv.1
+Move Power: Dark (Lv. 2)	わざパワー：あく Lv.2	기술 파워: 악 Lv.2	招式力：恶 Lv.2	招式力：惡 Lv.2
+Move Power: Dark (Lv. 3)	わざパワー：あく Lv.3	기술 파워: 악 Lv.3	招式力：恶 Lv.3	招式力：惡 Lv.3
+Move Power: Steel (Lv. 1)	わざパワー：はがね Lv.1	기술 파워: 강철 Lv.1	招式力：钢 Lv.1	招式力：鋼 Lv.1
+Move Power: Steel (Lv. 2)	わざパワー：はがね Lv.2	기술 파워: 강철 Lv.2	招式力：钢 Lv.2	招式力：鋼 Lv.2
+Move Power: Steel (Lv. 3)	わざパワー：はがね Lv.3	기술 파워: 강철 Lv.3	招式力：钢 Lv.3	招式力：鋼 Lv.3
+Move Power: Fairy (Lv. 1)	わざパワー：フェアリー Lv.1	기술 파워: 페어리 Lv.1	招式力：妖精 Lv.1	招式力：妖精 Lv.1
+Move Power: Fairy (Lv. 2)	わざパワー：フェアリー Lv.2	기술 파워: 페어리 Lv.2	招式力：妖精 Lv.2	招式力：妖精 Lv.2
+Move Power: Fairy (Lv. 3)	わざパワー：フェアリー Lv.3	기술 파워: 페어리 Lv.3	招式力：妖精 Lv.3	招式力：妖精 Lv.3
+Speed Power (Lv. 1)	すばやさパワー Lv.1	스피드 파워 Lv.1	速度力 Lv.1	速度力 Lv.1
+Speed Power (Lv. 2)	すばやさパワー Lv.2	스피드 파워 Lv.2	速度力 Lv.2	速度力 Lv.2
+Speed Power (Lv. 3)	すばやさパワー Lv.3	스피드 파워 Lv.3	速度力 Lv.3	速度力 Lv.3
+Big Haul Power (Lv. 1)	どっさりパワー：Lv.1	잔뜩 파워 Lv.1	多多力：Lv.1	多多力：Lv.1
+Big Haul Power (Lv. 2)	どっさりパワー：Lv.2	잔뜩 파워 Lv.2	多多力：Lv.2	多多力：Lv.2
+Big Haul Power (Lv. 3)	どっさりパワー：Lv.3	잔뜩 파워 Lv.3	多多力：Lv.3	多多力：Lv.3
+Item Power: Berries (Lv. 1)	どうぐパワー：きのみ Lv.1	도구 파워: 나무열매 Lv.1	道具力：树果 Lv.1	道具力：樹果 Lv.1
+Item Power: Berries (Lv. 2)	どうぐパワー：きのみ Lv.2	도구 파워: 나무열매 Lv.2	道具力：树果 Lv.2	道具力：樹果 Lv.2
+Item Power: Berries (Lv. 3)	どうぐパワー：きのみ Lv.3	도구 파워: 나무열매 Lv.3	道具力：树果 Lv.3	道具力：樹果 Lv.3
+Item Power: Candies (Lv. 1)	どうぐパワー：アメ Lv.1	도구 파워: 사탕 Lv.1	道具力：糖果 Lv.1	道具力：糖果 Lv.1
+Item Power: Candies (Lv. 2)	どうぐパワー：アメ Lv.2	도구 파워: 사탕 Lv.2	道具力：糖果 Lv.2	道具力：糖果 Lv.2
+Item Power: Candies (Lv. 3)	どうぐパワー：アメ Lv.3	도구 파워: 사탕 Lv.3	道具力：糖果 Lv.3	道具力：糖果 Lv.3
+Item Power: Treasure (Lv. 1)	どうぐパワー：おたから Lv.1	도구 파워: 보물 Lv.1	道具力：宝物 Lv.1	道具力：寶物 Lv.1
+Item Power: Treasure (Lv. 2)	どうぐパワー：おたから Lv.2	도구 파워: 보물 Lv.2	道具力：宝物 Lv.2	道具力：寶物 Lv.2
+Item Power: Treasure (Lv. 3)	どうぐパワー：おたから Lv.3	도구 파워: 보물 Lv.3	道具力：宝物 Lv.3	道具力：寶物 Lv.3
+Item Power: Poké Balls (Lv. 1)	どうぐパワー：ボール Lv.1	도구 파워: 볼 Lv.1	道具力：球 Lv.1	道具力：球 Lv.1
+Item Power: Poké Balls (Lv. 2)	どうぐパワー：ボール Lv.2	도구 파워: 볼 Lv.2	道具力：球 Lv.2	道具力：球 Lv.2
+Item Power: Poké Balls (Lv. 3)	どうぐパワー：ボール Lv.3	도구 파워: 볼 Lv.3	道具力：球 Lv.3	道具力：球 Lv.3
+Item Power: Special (Lv. 1)	どうぐパワー：とくべつ Lv.1	도구 파워: 스페셜 Lv.1	道具力：特别 Lv.1	道具力：特別 Lv.1
+Item Power: Special (Lv. 2)	どうぐパワー：とくべつ Lv.2	도구 파워: 스페셜 Lv.2	道具力：特别 Lv.2	道具力：特別 Lv.2
+Item Power: Special (Lv. 3)	どうぐパワー：とくべつ Lv.3	도구 파워: 스페셜 Lv.3	道具力：特别 Lv.3	道具力：特別 Lv.3
+Item Power: Coins (Lv. 1)	どうぐパワー：コイン Lv.1	도구 파워: 코인 Lv.1	道具力：硬币 Lv.1	道具力：硬幣 Lv.1
+Item Power: Coins (Lv. 2)	どうぐパワー：コイン Lv.2	도구 파워: 코인 Lv.2	道具力：硬币 Lv.2	道具力：硬幣 Lv.2
+Item Power: Coins (Lv. 3)	どうぐパワー：コイン Lv.3	도구 파워: 코인 Lv.3	道具力：硬币 Lv.3	道具力：硬幣 Lv.3
+Mega Power Charging (Lv. 1)	メガパワー：チャージ Lv.1	메가 파워: 차지 Lv.1	超级力：蓄力 Lv.1	超級力：蓄力 Lv.1
+Mega Power Charging (Lv. 2)	メガパワー：チャージ Lv.2	메가 파워: 차지 Lv.2	超级力：蓄力 Lv.2	超級力：蓄力 Lv.2
+Mega Power Charging (Lv. 3)	メガパワー：チャージ Lv.3	메가 파워: 차지 Lv.3	超级力：蓄力 Lv.3	超級力：蓄力 Lv.3
+Mega Power Conservation (Lv. 1)	メガパワー：ながもち Lv.1	메가 파워: 오래오래 Lv.1	超级力：持久 Lv.1	超級力：持久 Lv.1
+Mega Power Conservation (Lv. 2)	メガパワー：ながもち Lv.2	메가 파워: 오래오래 Lv.2	超级力：持久 Lv.2	超級力：持久 Lv.2
+Mega Power Conservation (Lv. 3)	メガパワー：ながもち Lv.3	메가 파워: 오래오래 Lv.3	超级力：持久 Lv.3	超級力：持久 Lv.3
+Defense Power (Lv. 1)	ぼうぎょパワー Lv.1	방어 파워 Lv.1	防御力 Lv.1	防禦力 Lv.1
+Defense Power (Lv. 2)	ぼうぎょパワー Lv.2	방어 파워 Lv.2	防御力 Lv.2	防禦力 Lv.2
+Defense Power (Lv. 3)	ぼうぎょパワー Lv.3	방어 파워 Lv.3	防御力 Lv.3	防禦力 Lv.3
+Sp. Def Power (Lv. 1)	とくぼうパワー Lv.1	특수방어 파워 Lv.1	特防力 Lv.1	特防力 Lv.1
+Sp. Def Power (Lv. 2)	とくぼうパワー Lv.2	특수방어 파워 Lv.2	特防力 Lv.2	特防力 Lv.2
+Sp. Def Power (Lv. 3)	とくぼうパワー Lv.3	특수방어 파워 Lv.3	特防力 Lv.3	特防力 Lv.3
+Resistance Power: Normal (Lv. 1)	めんえきパワー：ノーマル Lv.1	저항 파워: 노말 Lv.1	免疫力：一般 Lv.1	免疫力：一般 Lv.1
+Resistance Power: Normal (Lv. 2)	めんえきパワー：ノーマル Lv.2	저항 파워: 노말 Lv.2	免疫力：一般 Lv.2	免疫力：一般 Lv.2
+Resistance Power: Normal (Lv. 3)	めんえきパワー：ノーマル Lv.3	저항 파워: 노말 Lv.3	免疫力：一般 Lv.3	免疫力：一般 Lv.3
+Resistance Power: Fire (Lv. 1)	めんえきパワー：ほのお Lv.1	저항 파워: 불꽃 Lv.1	免疫力：火 Lv.1	免疫力：火 Lv.1
+Resistance Power: Fire (Lv. 2)	めんえきパワー：ほのお Lv.2	저항 파워: 불꽃 Lv.2	免疫力：火 Lv.2	免疫力：火 Lv.2
+Resistance Power: Fire (Lv. 3)	めんえきパワー：ほのお Lv.3	저항 파워: 불꽃 Lv.3	免疫力：火 Lv.3	免疫力：火 Lv.3
+Resistance Power: Water (Lv. 1)	めんえきパワー：みず Lv.1	저항 파워: 물 Lv.1	免疫力：水 Lv.1	免疫力：水 Lv.1
+Resistance Power: Water (Lv. 2)	めんえきパワー：みず Lv.2	저항 파워: 물 Lv.2	免疫力：水 Lv.2	免疫力：水 Lv.2
+Resistance Power: Water (Lv. 3)	めんえきパワー：みず Lv.3	저항 파워: 물 Lv.3	免疫力：水 Lv.3	免疫力：水 Lv.3
+Resistance Power: Electric (Lv. 1)	めんえきパワー：でんき Lv.1	저항 파워: 전기 Lv.1	免疫力：电 Lv.1	免疫力：電 Lv.1
+Resistance Power: Electric (Lv. 2)	めんえきパワー：でんき Lv.2	저항 파워: 전기 Lv.2	免疫力：电 Lv.2	免疫力：電 Lv.2
+Resistance Power: Electric (Lv. 3)	めんえきパワー：でんき Lv.3	저항 파워: 전기 Lv.3	免疫力：电 Lv.3	免疫力：電 Lv.3
+Resistance Power: Grass (Lv. 1)	めんえきパワー：くさ Lv.1	저항 파워: 풀 Lv.1	免疫力：草 Lv.1	免疫力：草 Lv.1
+Resistance Power: Grass (Lv. 2)	めんえきパワー：くさ Lv.2	저항 파워: 풀 Lv.2	免疫力：草 Lv.2	免疫力：草 Lv.2
+Resistance Power: Grass (Lv. 3)	めんえきパワー：くさ Lv.3	저항 파워: 풀 Lv.3	免疫力：草 Lv.3	免疫力：草 Lv.3
+Resistance Power: Ice (Lv. 1)	めんえきパワー：こおり Lv.1	저항 파워: 얼음 Lv.1	免疫力：冰 Lv.1	免疫力：冰 Lv.1
+Resistance Power: Ice (Lv. 2)	めんえきパワー：こおり Lv.2	저항 파워: 얼음 Lv.2	免疫力：冰 Lv.2	免疫力：冰 Lv.2
+Resistance Power: Ice (Lv. 3)	めんえきパワー：こおり Lv.3	저항 파워: 얼음 Lv.3	免疫力：冰 Lv.3	免疫力：冰 Lv.3
+Resistance Power: Fighting (Lv. 1)	めんえきパワー：かくとう Lv.1	저항 파워: 격투 Lv.1	免疫力：格斗 Lv.1	免疫力：格鬥 Lv.1
+Resistance Power: Fighting (Lv. 2)	めんえきパワー：かくとう Lv.2	저항 파워: 격투 Lv.2	免疫力：格斗 Lv.2	免疫力：格鬥 Lv.2
+Resistance Power: Fighting (Lv. 3)	めんえきパワー：かくとう Lv.3	저항 파워: 격투 Lv.3	免疫力：格斗 Lv.3	免疫力：格鬥 Lv.3
+Resistance Power: Poison (Lv. 1)	めんえきパワー：どく Lv.1	저항 파워: 독 Lv.1	免疫力：毒 Lv.1	免疫力：毒 Lv.1
+Resistance Power: Poison (Lv. 2)	めんえきパワー：どく Lv.2	저항 파워: 독 Lv.2	免疫力：毒 Lv.2	免疫力：毒 Lv.2
+Resistance Power: Poison (Lv. 3)	めんえきパワー：どく Lv.3	저항 파워: 독 Lv.3	免疫力：毒 Lv.3	免疫力：毒 Lv.3
+Resistance Power: Ground (Lv. 1)	めんえきパワー：じめん Lv.1	저항 파워: 땅 Lv.1	免疫力：地面 Lv.1	免疫力：地面 Lv.1
+Resistance Power: Ground (Lv. 2)	めんえきパワー：じめん Lv.2	저항 파워: 땅 Lv.2	免疫力：地面 Lv.2	免疫力：地面 Lv.2
+Resistance Power: Ground (Lv. 3)	めんえきパワー：じめん Lv.3	저항 파워: 땅 Lv.3	免疫力：地面 Lv.3	免疫力：地面 Lv.3
+Resistance Power: Flying (Lv. 1)	めんえきパワー：ひこう Lv.1	저항 파워: 비행 Lv.1	免疫力：飞行 Lv.1	免疫力：飛行 Lv.1
+Resistance Power: Flying (Lv. 2)	めんえきパワー：ひこう Lv.2	저항 파워: 비행 Lv.2	免疫力：飞行 Lv.2	免疫力：飛行 Lv.2
+Resistance Power: Flying (Lv. 3)	めんえきパワー：ひこう Lv.3	저항 파워: 비행 Lv.3	免疫力：飞行 Lv.3	免疫力：飛行 Lv.3
+Resistance Power: Psychic (Lv. 1)	めんえきパワー：エスパー Lv.1	저항 파워: 에스퍼 Lv.1	免疫力：超能力 Lv.1	免疫力：超能力 Lv.1
+Resistance Power: Psychic (Lv. 2)	めんえきパワー：エスパー Lv.2	저항 파워: 에스퍼 Lv.2	免疫力：超能力 Lv.2	免疫力：超能力 Lv.2
+Resistance Power: Psychic (Lv. 3)	めんえきパワー：エスパー Lv.3	저항 파워: 에스퍼 Lv.3	免疫力：超能力 Lv.3	免疫力：超能力 Lv.3
+Resistance Power: Bug (Lv. 1)	めんえきパワー：むし Lv.1	저항 파워: 벌레 Lv.1	免疫力：虫 Lv.1	免疫力：蟲 Lv.1
+Resistance Power: Bug (Lv. 2)	めんえきパワー：むし Lv.2	저항 파워: 벌레 Lv.2	免疫力：虫 Lv.2	免疫力：蟲 Lv.2
+Resistance Power: Bug (Lv. 3)	めんえきパワー：むし Lv.3	저항 파워: 벌레 Lv.3	免疫力：虫 Lv.3	免疫力：蟲 Lv.3
+Resistance Power: Rock (Lv. 1)	めんえきパワー：いわ Lv.1	저항 파워: 바위 Lv.1	免疫力：岩石 Lv.1	免疫力：岩石 Lv.1
+Resistance Power: Rock (Lv. 2)	めんえきパワー：いわ Lv.2	저항 파워: 바위 Lv.2	免疫力：岩石 Lv.2	免疫力：岩石 Lv.2
+Resistance Power: Rock (Lv. 3)	めんえきパワー：いわ Lv.3	저항 파워: 바위 Lv.3	免疫力：岩石 Lv.3	免疫力：岩石 Lv.3
+Resistance Power: Ghost (Lv. 1)	めんえきパワー：ゴースト Lv.1	저항 파워: 고스트 Lv.1	免疫力：幽灵 Lv.1	免疫力：幽靈 Lv.1
+Resistance Power: Ghost (Lv. 2)	めんえきパワー：ゴースト Lv.2	저항 파워: 고스트 Lv.2	免疫力：幽灵 Lv.2	免疫力：幽靈 Lv.2
+Resistance Power: Ghost (Lv. 3)	めんえきパワー：ゴースト Lv.3	저항 파워: 고스트 Lv.3	免疫力：幽灵 Lv.3	免疫力：幽靈 Lv.3
+Resistance Power: Dragon (Lv. 1)	めんえきパワー：ドラゴン Lv.1	저항 파워: 드래곤 Lv.1	免疫力：龙 Lv.1	免疫力：龍 Lv.1
+Resistance Power: Dragon (Lv. 2)	めんえきパワー：ドラゴン Lv.2	저항 파워: 드래곤 Lv.2	免疫力：龙 Lv.2	免疫力：龍 Lv.2
+Resistance Power: Dragon (Lv. 3)	めんえきパワー：ドラゴン Lv.3	저항 파워: 드래곤 Lv.3	免疫力：龙 Lv.3	免疫力：龍 Lv.3
+Resistance Power: Dark (Lv. 1)	めんえきパワー：あく Lv.1	저항 파워: 악 Lv.1	免疫力：恶 Lv.1	免疫力：惡 Lv.1
+Resistance Power: Dark (Lv. 2)	めんえきパワー：あく Lv.2	저항 파워: 악 Lv.2	免疫力：恶 Lv.2	免疫力：惡 Lv.2
+Resistance Power: Dark (Lv. 3)	めんえきパワー：あく Lv.3	저항 파워: 악 Lv.3	免疫力：恶 Lv.3	免疫力：惡 Lv.3
+Resistance Power: Steel (Lv. 1)	めんえきパワー：はがね Lv.1	저항 파워: 강철 Lv.1	免疫力：钢 Lv.1	免疫力：鋼 Lv.1
+Resistance Power: Steel (Lv. 2)	めんえきパワー：はがね Lv.2	저항 파워: 강철 Lv.2	免疫力：钢 Lv.2	免疫力：鋼 Lv.2
+Resistance Power: Steel (Lv. 3)	めんえきパワー：はがね Lv.3	저항 파워: 강철 Lv.3	免疫力：钢 Lv.3	免疫力：鋼 Lv.3
+Resistance Power: Fairy (Lv. 1)	めんえきパワー：フェアリー Lv.1	저항 파워: 페어리 Lv.1	免疫力：妖精 Lv.1	免疫力：妖精 Lv.1
+Resistance Power: Fairy (Lv. 2)	めんえきパワー：フェアリー Lv.2	저항 파워: 페어리 Lv.2	免疫力：妖精 Lv.2	免疫力：妖精 Lv.2
+Resistance Power: Fairy (Lv. 3)	めんえきパワー：フェアリー Lv.3	저항 파워: 페어리 Lv.3	免疫力：妖精 Lv.3	免疫力：妖精 Lv.3
+Humungo Power (Lv. 1)	でかでかパワー Lv.1	큼직큼직 파워 Lv.1	大大力 Lv.1	大大力 Lv.1
+Humungo Power (Lv. 2)	でかでかパワー Lv.2	큼직큼직 파워 Lv.2	大大力 Lv.2	大大力 Lv.2
+Humungo Power (Lv. 3)	でかでかパワー Lv.3	큼직큼직 파워 Lv.3	大大力 Lv.3	大大力 Lv.3
+Teensy Power (Lv. 1)	ちびちびパワー Lv.1	아기자기 파워 Lv.1	小小力 Lv.1	小小力 Lv.1
+Teensy Power (Lv. 2)	ちびちびパワー Lv.2	아기자기 파워 Lv.2	小小力 Lv.2	小小力 Lv.2
+Teensy Power (Lv. 3)	ちびちびパワー Lv.3	아기자기 파워 Lv.3	小小力 Lv.3	小小力 Lv.3
+Encounter Power (Lv. 1)	そうぐうパワー Lv.1	조우 파워 Lv.1	遭遇力 Lv.1	遭遇力 Lv.1
+Encounter Power (Lv. 2)	そうぐうパワー Lv.2	조우 파워 Lv.2	遭遇力 Lv.2	遭遇力 Lv.2
+Encounter Power (Lv. 3)	そうぐうパワー Lv.3	조우 파워 Lv.3	遭遇力 Lv.3	遭遇力 Lv.3
+Catching Power: Normal (Lv. 1)	ほかくパワー：ノーマル Lv.1	포획 파워: 노말 Lv.1	捕获力：一般 Lv.1	捕獲力：一般 Lv.1
+Catching Power: Normal (Lv. 2)	ほかくパワー：ノーマル Lv.2	포획 파워: 노말 Lv.2	捕获力：一般 Lv.2	捕獲力：一般 Lv.2
+Catching Power: Normal (Lv. 3)	ほかくパワー：ノーマル Lv.3	포획 파워: 노말 Lv.3	捕获力：一般 Lv.3	捕獲力：一般 Lv.3
+Catching Power: Fire (Lv. 1)	ほかくパワー：ほのお Lv.1	포획 파워: 불꽃 Lv.1	捕获力：火 Lv.1	捕獲力：火 Lv.1
+Catching Power: Fire (Lv. 2)	ほかくパワー：ほのお Lv.2	포획 파워: 불꽃 Lv.2	捕获力：火 Lv.2	捕獲力：火 Lv.2
+Catching Power: Fire (Lv. 3)	ほかくパワー：ほのお Lv.3	포획 파워: 불꽃 Lv.3	捕获力：火 Lv.3	捕獲力：火 Lv.3
+Catching Power: Water (Lv. 1)	ほかくパワー：みず Lv.1	포획 파워: 물 Lv.1	捕获力：水 Lv.1	捕獲力：水 Lv.1
+Catching Power: Water (Lv. 2)	ほかくパワー：みず Lv.2	포획 파워: 물 Lv.2	捕获力：水 Lv.2	捕獲力：水 Lv.2
+Catching Power: Water (Lv. 3)	ほかくパワー：みず Lv.3	포획 파워: 물 Lv.3	捕获力：水 Lv.3	捕獲力：水 Lv.3
+Catching Power: Electric (Lv. 1)	ほかくパワー：でんき Lv.1	포획 파워: 전기 Lv.1	捕获力：电 Lv.1	捕獲力：電 Lv.1
+Catching Power: Electric (Lv. 2)	ほかくパワー：でんき Lv.2	포획 파워: 전기 Lv.2	捕获力：电 Lv.2	捕獲力：電 Lv.2
+Catching Power: Electric (Lv. 3)	ほかくパワー：でんき Lv.3	포획 파워: 전기 Lv.3	捕获力：电 Lv.3	捕獲力：電 Lv.3
+Catching Power: Grass (Lv. 1)	ほかくパワー：くさ Lv.1	포획 파워: 풀 Lv.1	捕获力：草 Lv.1	捕獲力：草 Lv.1
+Catching Power: Grass (Lv. 2)	ほかくパワー：くさ Lv.2	포획 파워: 풀 Lv.2	捕获力：草 Lv.2	捕獲力：草 Lv.2
+Catching Power: Grass (Lv. 3)	ほかくパワー：くさ Lv.3	포획 파워: 풀 Lv.3	捕获力：草 Lv.3	捕獲力：草 Lv.3
+Catching Power: Ice (Lv. 1)	ほかくパワー：こおり Lv.1	포획 파워: 얼음 Lv.1	捕获力：冰 Lv.1	捕獲力：冰 Lv.1
+Catching Power: Ice (Lv. 2)	ほかくパワー：こおり Lv.2	포획 파워: 얼음 Lv.2	捕获力：冰 Lv.2	捕獲力：冰 Lv.2
+Catching Power: Ice (Lv. 3)	ほかくパワー：こおり Lv.3	포획 파워: 얼음 Lv.3	捕获力：冰 Lv.3	捕獲力：冰 Lv.3
+Catching Power: Fighting (Lv. 1)	ほかくパワー：かくとう Lv.1	포획 파워: 격투 Lv.1	捕获力：格斗 Lv.1	捕獲力：格鬥 Lv.1
+Catching Power: Fighting (Lv. 2)	ほかくパワー：かくとう Lv.2	포획 파워: 격투 Lv.2	捕获力：格斗 Lv.2	捕獲力：格鬥 Lv.2
+Catching Power: Fighting (Lv. 3)	ほかくパワー：かくとう Lv.3	포획 파워: 격투 Lv.3	捕获力：格斗 Lv.3	捕獲力：格鬥 Lv.3
+Catching Power: Poison (Lv. 1)	ほかくパワー：どく Lv.1	포획 파워: 독 Lv.1	捕获力：毒 Lv.1	捕獲力：毒 Lv.1
+Catching Power: Poison (Lv. 2)	ほかくパワー：どく Lv.2	포획 파워: 독 Lv.2	捕获力：毒 Lv.2	捕獲力：毒 Lv.2
+Catching Power: Poison (Lv. 3)	ほかくパワー：どく Lv.3	포획 파워: 독 Lv.3	捕获力：毒 Lv.3	捕獲力：毒 Lv.3
+Catching Power: Ground (Lv. 1)	ほかくパワー：じめん Lv.1	포획 파워: 땅 Lv.1	捕获力：地面 Lv.1	捕獲力：地面 Lv.1
+Catching Power: Ground (Lv. 2)	ほかくパワー：じめん Lv.2	포획 파워: 땅 Lv.2	捕获力：地面 Lv.2	捕獲力：地面 Lv.2
+Catching Power: Ground (Lv. 3)	ほかくパワー：じめん Lv.3	포획 파워: 땅 Lv.3	捕获力：地面 Lv.3	捕獲力：地面 Lv.3
+Catching Power: Flying (Lv. 1)	ほかくパワー：ひこう Lv.1	포획 파워: 비행 Lv.1	捕获力：飞行 Lv.1	捕獲力：飛行 Lv.1
+Catching Power: Flying (Lv. 2)	ほかくパワー：ひこう Lv.2	포획 파워: 비행 Lv.2	捕获力：飞行 Lv.2	捕獲力：飛行 Lv.2
+Catching Power: Flying (Lv. 3)	ほかくパワー：ひこう Lv.3	포획 파워: 비행 Lv.3	捕获力：飞行 Lv.3	捕獲力：飛行 Lv.3
+Catching Power: Psychic (Lv. 1)	ほかくパワー：エスパー Lv.1	포획 파워: 에스퍼 Lv.1	捕获力：超能力 Lv.1	捕獲力：超能力 Lv.1
+Catching Power: Psychic (Lv. 2)	ほかくパワー：エスパー Lv.2	포획 파워: 에스퍼 Lv.2	捕获力：超能力 Lv.2	捕獲力：超能力 Lv.2
+Catching Power: Psychic (Lv. 3)	ほかくパワー：エスパー Lv.3	포획 파워: 에스퍼 Lv.3	捕获力：超能力 Lv.3	捕獲力：超能力 Lv.3
+Catching Power: Bug (Lv. 1)	ほかくパワー：むし Lv.1	포획 파워: 벌레 Lv.1	捕获力：虫 Lv.1	捕獲力：蟲 Lv.1
+Catching Power: Bug (Lv. 2)	ほかくパワー：むし Lv.2	포획 파워: 벌레 Lv.2	捕获力：虫 Lv.2	捕獲力：蟲 Lv.2
+Catching Power: Bug (Lv. 3)	ほかくパワー：むし Lv.3	포획 파워: 벌레 Lv.3	捕获力：虫 Lv.3	捕獲力：蟲 Lv.3
+Catching Power: Rock (Lv. 1)	ほかくパワー：いわ Lv.1	포획 파워: 바위 Lv.1	捕获力：岩石 Lv.1	捕獲力：岩石 Lv.1
+Catching Power: Rock (Lv. 2)	ほかくパワー：いわ Lv.2	포획 파워: 바위 Lv.2	捕获力：岩石 Lv.2	捕獲力：岩石 Lv.2
+Catching Power: Rock (Lv. 3)	ほかくパワー：いわ Lv.3	포획 파워: 바위 Lv.3	捕获力：岩石 Lv.3	捕獲力：岩石 Lv.3
+Catching Power: Ghost (Lv. 1)	ほかくパワー：ゴースト Lv.1	포획 파워: 고스트 Lv.1	捕获力：幽灵 Lv.1	捕獲力：幽靈 Lv.1
+Catching Power: Ghost (Lv. 2)	ほかくパワー：ゴースト Lv.2	포획 파워: 고스트 Lv.2	捕获力：幽灵 Lv.2	捕獲力：幽靈 Lv.2
+Catching Power: Ghost (Lv. 3)	ほかくパワー：ゴースト Lv.3	포획 파워: 고스트 Lv.3	捕获力：幽灵 Lv.3	捕獲力：幽靈 Lv.3
+Catching Power: Dragon (Lv. 1)	ほかくパワー：ドラゴン Lv.1	포획 파워: 드래곤 Lv.1	捕获力：龙 Lv.1	捕獲力：龍 Lv.1
+Catching Power: Dragon (Lv. 2)	ほかくパワー：ドラゴン Lv.2	포획 파워: 드래곤 Lv.2	捕获力：龙 Lv.2	捕獲力：龍 Lv.2
+Catching Power: Dragon (Lv. 3)	ほかくパワー：ドラゴン Lv.3	포획 파워: 드래곤 Lv.3	捕获力：龙 Lv.3	捕獲力：龍 Lv.3
+Catching Power: Dark (Lv. 1)	ほかくパワー：あく Lv.1	포획 파워: 악 Lv.1	捕获力：恶 Lv.1	捕獲力：惡 Lv.1
+Catching Power: Dark (Lv. 2)	ほかくパワー：あく Lv.2	포획 파워: 악 Lv.2	捕获力：恶 Lv.2	捕獲力：惡 Lv.2
+Catching Power: Dark (Lv. 3)	ほかくパワー：あく Lv.3	포획 파워: 악 Lv.3	捕获力：恶 Lv.3	捕獲力：惡 Lv.3
+Catching Power: Steel (Lv. 1)	ほかくパワー：はがね Lv.1	포획 파워: 강철 Lv.1	捕获力：钢 Lv.1	捕獲力：鋼 Lv.1
+Catching Power: Steel (Lv. 2)	ほかくパワー：はがね Lv.2	포획 파워: 강철 Lv.2	捕获力：钢 Lv.2	捕獲力：鋼 Lv.2
+Catching Power: Steel (Lv. 3)	ほかくパワー：はがね Lv.3	포획 파워: 강철 Lv.3	捕获力：钢 Lv.3	捕獲力：鋼 Lv.3
+Catching Power: Fairy (Lv. 1)	ほかくパワー：フェアリー Lv.1	포획 파워: 페어리 Lv.1	捕获力：妖精 Lv.1	捕獲力：妖精 Lv.1
+Catching Power: Fairy (Lv. 2)	ほかくパワー：フェアリー Lv.2	포획 파워: 페어리 Lv.2	捕获力：妖精 Lv.2	捕獲力：妖精 Lv.2
+Catching Power: Fairy (Lv. 3)	ほかくパワー：フェアリー Lv.3	포획 파워: 페어리 Lv.3	捕获力：妖精 Lv.3	捕獲力：妖精 Lv.3
+Catching Power: All Types (Lv. 1)	ほかくパワー：すべて Lv.1	포획 파워: 모든 타입 Lv.1	捕获力：所有属性 Lv.1	捕獲力：全屬性 Lv.1
+Catching Power: All Types (Lv. 2)	ほかくパワー：すべて Lv.2	포획 파워: 모든 타입 Lv.2	捕获力：所有属性 Lv.2	捕獲力：全屬性 Lv.2
+Catching Power: All Types (Lv. 3)	ほかくパワー：すべて Lv.3	포획 파워: 모든 타입 Lv.3	捕获力：所有属性 Lv.3	捕獲力：全屬性 Lv.3
+Pitch-Black Power	あんこくパワー	암흑 파워	暗黑力	暗黑力
+Ruby-Red Power	オメガパワー	오메가 파워	欧米伽力	歐米加力
+Sapphire-Blue Power	アルファパワー	알파 파워	阿尔法力	阿爾法力
+Emerald-Green Power	デルタパワー	델타 파워	德尔塔力	德爾塔力
+Thunderclap Power	じんらいパワ－	신뢰 파워	奔雷力	奔雷力
