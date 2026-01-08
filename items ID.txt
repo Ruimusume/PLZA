@@ -1,4 +1,5 @@
 ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
+0	0	无	なし	None		
 1	0001	大师球	マスターボール	Master Ball		ZA
 2	0002	高级球	ハイパーボール	Ultra Ball		ZA
 3	0003	超级球	スーパーボール	Great Ball		ZA
@@ -53,6 +54,10 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 107	006B	光之石	ひかりのいし	Shiny Stone		ZA
 108	006C	暗之石	やみのいし	Dusk Stone		ZA
 109	006D	觉醒之石	めざめいし	Dawn Stone		ZA
+116	0074	水流卡带	アクアカセット	Douse Drive		ZA
+117	0075	闪电卡带	イナズマカセット	Shock Drive		ZA
+118	0076	火焰卡带	ブレイズカセット	Burn Drive		ZA
+119	0077	冰冻卡带	フリーズカセット	Chill Drive		ZA
 149	0095	樱子果	クラボのみ	Cheri Berry		ZA
 150	0096	零余果	カゴのみ	Chesto Berry		ZA
 151	0097	桃桃果	モモンのみ	Pecha Berry		ZA
@@ -111,7 +116,10 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 249	00F9	木炭	もくたん	Charcoal		ZA
 250	00FA	龙之牙	りゅうのキバ	Dragon Fang		ZA
 251	00FB	丝绸围巾	シルクのスカーフ	Silk Scarf		ZA
+252	00FC	升级数据	アップグレード	Upgrade		ZA
 253	00FD	贝壳之铃	かいがらのすず	Shell Bell		ZA
+258	0102	粗骨头	ふといホネ	Thick Club		ZA
+259	0103	大葱	ながねぎ	Leek		ZA
 266	010A	力量头带	ちからのハチマキ	Muscle Band		ZA
 267	010B	博识眼镜	ものしりメガネ	Wise Glasses		ZA
 268	010C	达人带	たつじんのおび	Expert Belt		ZA
@@ -124,6 +132,7 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 293	0125	力量护踝	パワーアンクル	Power Anklet		ZA
 294	0126	力量负重	パワーウエイト	Power Weight		ZA
 296	0128	大根茎	おおきなねっこ	Big Root		ZA
+324	0144	可疑补丁	あやしいパッチ	Dubious Disc		ZA
 328	0148	招式学习器００１	わざマシン００１	TM001		ZA
 329	0149	招式学习器００２	わざマシン００２	TM002		ZA
 330	014A	招式学习器００３	わざマシン００３	TM003		ZA
@@ -149,6 +158,9 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 497	01F1	友友球	フレンドボール	Friend Ball		ZA
 498	01F2	月亮球	ムーンボール	Moon Ball		ZA
 499	01F3	竞赛球	コンペボール	Sport Ball		ZA
+534	0216	朱红色宝珠	べにいろのたま	Red Orb		ZA
+535	0217	靛蓝色宝珠	あいいろのたま	Blue Orb		ZA
+537	0219	美丽鳞片	きれいなウロコ	Prism Scale		ZA
 538	021A	进化奇石	しんかのきせき	Eviolite		ZA
 540	021C	凸凸头盔	ゴツゴツメット	Rocky Helmet		ZA
 564	0234	一般宝石	ノーマルジュエル	Normal Gem		ZA
@@ -175,6 +187,7 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 661	0295	水箭龟进化石	カメックスナイト	Blastoisinite		ZA
 662	0296	超梦进化石Ｘ	ミュウツナイトＸ	Mewtwonite X		ZA
 663	0297	超梦进化石Ｙ	ミュウツナイトＹ	Mewtwonite Y		ZA
+664	0298	火焰鸡进化石	バシャーモナイト	Blazikenite		ZA
 665	0299	恰雷姆进化石	チャーレムナイト	Medichamite		ZA
 666	029A	黑鲁加进化石	ヘルガナイト	Houndoominite		ZA
 667	029B	波士可多拉进化石	ボスゴドラナイト	Aggronite		ZA
@@ -194,12 +207,16 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 681	02A9	大嘴娃进化石	クチートナイト	Mawilite		ZA
 682	02AA	雷电兽进化石	ライボルトナイト	Manectite		ZA
 683	02AB	烈咬陆鲨进化石	ガブリアスナイト	Garchompite		ZA
+684	02AC	拉帝亚斯进化石	ラティアスナイト	Latiasite		ZA
+685	02AD	拉帝欧斯进化石	ラティオスナイト	Latiosite		ZA
 686	02AE	洛玫果	ロゼルのみ	Roseli Berry		ZA
 693	02B5	招式学习器０９９	わざマシン０９９	TM099		ZA
 700	02BC	电梯钥匙	エレベータのキー	Elevator Key		ZA
 708	02C4	密阿雷格雷派饼	ミアレガレット	Lumiose Galette		ZA
 710	02C6	颚之化石	アゴのカセキ	Jaw Fossil		ZA
 711	02C7	鳍之化石	ヒレのカセキ	Sail Fossil		ZA
+752	02F0	巨沼怪进化石	ラグラージナイト	Swampertite		ZA
+753	02F1	蜥蜴王进化石	ジュカインナイト	Sceptilite		ZA
 754	02F2	勾魂眼进化石	ヤミラミナイト	Sablenite		ZA
 755	02F3	七夕青鸟进化石	チルタリスナイト	Altarianite		ZA
 756	02F4	艾路雷朵进化石	エルレイドナイト	Galladite		ZA
@@ -232,9 +249,14 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 1243	04DB	温和薄荷	おだやかミント	Calm Mint		ZA
 1247	04DF	胆小薄荷	おくびょうミント	Timid Mint		ZA
 1251	04E3	认真薄荷	まじめミント	Serious Mint		ZA
+1278	04FE	洛托姆型录	ロトムのカタログ	Rotom Catalog		ZA
 1582	062E	伽勒豆蔻手环	ガラナツブレス	Galarica Cuff		ZA
 1592	0638	伽勒豆蔻花圈	ガラナツリース	Galarica Wreath		ZA
+1691	069B	黑奇石	くろのきせき	Black Augurite		ZA
 1785	06F9	奇异球	ストレンジボール	Strange Ball		ZA
+1861	0745	咒术之铠	ノロイノヨロイ	Malicious Armor		ZA
+1956	07A4	毛球的牙	コンパンのキバ	Venonat Fang		ZA
+2344	0928	庆祝之铠	イワイノヨロイ	Auspicious Armor		ZA
 2401	0961	妖精之羽	ようせいのハネ	Fairy Feather		ZA
 2558	09FE	精通种子	かいでんのタネ	Seed of Mastery		ZA
 2559	09FF	皮可西进化石	ピクシナイト	Clefablite		ZA
@@ -245,6 +267,8 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 2564	0A04	大力鳄进化石	オーダイルナイト	Feraligite		ZA
 2565	0A05	盔甲鸟进化石	エアームドナイト	Skarmorite		ZA
 2566	0A06	雪妖女进化石	ユキメノコナイト	Froslassite		ZA
+2567	0A07	席多蓝恩进化石	ヒードラナイト	Heatranite		ZA
+2568	0A08	达克莱伊进化石	ダークライナイト	Darkranite		ZA
 2569	0A09	炎武王进化石	エンブオナイト	Emboarite		ZA
 2570	0A0A	龙头地鼠进化石	ドリュウズナイト	Excadrite		ZA
 2571	0A0B	蜈蚣王进化石	ペンドラナイト	Scolipite		ZA
@@ -262,6 +286,7 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 2583	0A17	摔角鹰人进化石	ルチャブルナイト	Hawluchanite		ZA
 2584	0A18	基格尔德进化石	ジガルデナイト	Zygardite		ZA
 2585	0A19	老翁龙进化石	ジジーロナイト	Drampanite		ZA
+2586	0A1A	捷拉奥拉进化石	ゼラオラナイト	Zeraorite		ZA
 2587	0A1B	列阵兵进化石	タイレーツナイト	Falinksite		ZA
 2588	0A1C	２０２号客房的钥匙	２０２ごうしつのカギ	Key to Room 202		ZA
 2589	0A1D	厉害密阿雷格雷派饼	すごいミアレガレット	Super Lumiose Galette		ZA
@@ -275,6 +300,17 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 2598	0A26	美味垃圾	おいしいゴミ	Tasty Trash		ZA
 2599	0A27	活力小树枝	げんきのこえだ	Revitalizing Twig		ZA
 2600	0A28	玳萝的遗忘物	デウロのわすれもの	Lida’s Things		ZA
+2601	0A29	密阿雷黄油	ミアレバター	Lumiosian Butter		ZA
+2602	0A2A	超级黄油	スーパーバター	Nice Butter		ZA
+2603	0A2B	高级黄油	ハイパーバター	Great Butter		ZA
+2604	0A2C	究极黄油	ウルトラバター	Amazing Butter		ZA
+2605	0A2D	大师黄油	マスターバター	Supreme Butter		ZA
+2606	0A2E	异次元黄油	いじげんバター	Hyperspace Butter		ZA
+2607	0A2F	丰缘的粗盐	ホウエンのあらじお	Hoennian Salt		ZA
+2608	0A30	黑香料	スパイスブラック	Épice Noire		ZA
+2609	0A31	奥利瓦油	オリーヴァオイル	Arboliva Oil		ZA
+2610	0A32	噼里啪啦糖果	パチパチキャンディ	Popping Candy		ZA
+2611	0A33	重要信件	たいせつなてがみ	Important Letter		ZA
 2618	0A3A	超级碎片	メガカケラ	Mega Shard		ZA
 2619	0A3B	彩色螺丝	カラフルなネジ	Colorful Screw		ZA
 2620	0A3C	红色卡娜莉玩偶	あかのカナリィぬい	Red Canari Plush		ZA
@@ -292,3 +328,53 @@ ID	HEX	名称	日文名称	英文名称	备注	ZA筛选
 2632	0A48	蓝色卡娜莉玩偶	あおのカナリィぬい	Blue Canari Plush		ZA
 2633	0A49	蓝色卡娜莉玩偶	あおのカナリィぬい	Blue Canari Plush		ZA
 2634	0A4A	蓝色卡娜莉玩偶	あおのカナリィぬい	Blue Canari Plush		ZA
+2635	0A4B	雷丘进化石Ｘ	ライチュウナイトＸ	Raichunite X		ZA
+2636	0A4C	雷丘进化石Ｙ	ライチュウナイトＹ	Raichunite Y		ZA
+2637	0A4D	风铃铃进化石	チリーンナイト	Chimechite		ZA
+2638	0A4E	阿勃梭鲁进化石Ｚ	アブソルナイトＺ	Absolite Z		ZA
+2639	0A4F	姆克鹰进化石	ムクホークナイト	Staraptite		ZA
+2640	0A50	烈咬陆鲨进化石Ｚ	ガブリアスナイトＺ	Garchompite Z		ZA
+2641	0A51	路卡利欧进化石Ｚ	ルカリオナイトＺ	Lucarionite Z		ZA
+2642	0A52	泥偶巨人进化石	ゴルーグナイト	Golurkite		ZA
+2643	0A53	超能妙喵进化石	ニャオニクスナイト	Meowsticite		ZA
+2644	0A54	好胜毛蟹进化石	ケケンカニナイト	Crabominite		ZA
+2645	0A55	具甲武者进化石	グソクムシャナイト	Golisopite		ZA
+2646	0A56	玛机雅娜进化石	マギアナイト	Magearnite		ZA
+2647	0A57	狠辣椒进化石	スコヴィラナイト	Scovillainite		ZA
+2648	0A58	戟脊龙进化石	セグレイブナイト	Baxcalibrite		ZA
+2649	0A59	米立龙进化石	シャリタツナイト	Tatsugirinite		ZA
+2650	0A5A	晶光花进化石	キラフロルナイト	Glimmoranite		ZA
+2651	0A5B	异次元樱子果	いじげんクラボのみ	Hyper Cheri Berry		ZA
+2652	0A5C	异次元零余果	いじげんカゴのみ	Hyper Chesto Berry		ZA
+2653	0A5D	异次元桃桃果	いじげんモモンのみ	Hyper Pecha Berry		ZA
+2654	0A5E	异次元莓莓果	いじげんチーゴのみ	Hyper Rawst Berry		ZA
+2655	0A5F	异次元利木果	いじげんナナシのみ	Hyper Aspear Berry		ZA
+2656	0A60	异次元橙橙果	いじげんオレンのみ	Hyper Oran Berry		ZA
+2657	0A61	异次元柿仔果	いじげんキーのみ	Hyper Persim Berry		ZA
+2658	0A62	异次元木子果	いじげんラムのみ	Hyper Lum Berry		ZA
+2659	0A63	异次元文柚果	いじげんオボンのみ	Hyper Sitrus Berry		ZA
+2660	0A64	异次元榴石果	いじげんザロクのみ	Hyper Pomeg Berry		ZA
+2661	0A65	异次元藻根果	いじげんネコブのみ	Hyper Kelpsy Berry		ZA
+2662	0A66	异次元比巴果	いじげんタポルのみ	Hyper Qualot Berry		ZA
+2663	0A67	异次元哈密果	いじげんロメのみ	Hyper Hondew Berry		ZA
+2664	0A68	异次元萄葡果	いじげんウブのみ	Hyper Grepa Berry		ZA
+2665	0A69	异次元茄番果	いじげんマトマのみ	Hyper Tamato Berry		ZA
+2666	0A6A	异次元巧可果	いじげんオッカのみ	Hyper Occa Berry		ZA
+2667	0A6B	异次元千香果	いじげんイトケのみ	Hyper Passho Berry		ZA
+2668	0A6C	异次元烛木果	いじげんソクノのみ	Hyper Wacan Berry		ZA
+2669	0A6D	异次元罗子果	いじげんリンドのみ	Hyper Rindo Berry		ZA
+2670	0A6E	异次元番荔果	いじげんヤチェのみ	Hyper Yache Berry		ZA
+2671	0A6F	异次元莲蒲果	いじげんヨプのみ	Hyper Chople Berry		ZA
+2672	0A70	异次元通通果	いじげんビアーのみ	Hyper Kebia Berry		ZA
+2673	0A71	异次元腰木果	いじげんシュカのみ	Hyper Shuca Berry		ZA
+2674	0A72	异次元棱瓜果	いじげんバコウのみ	Hyper Coba Berry		ZA
+2675	0A73	异次元福禄果	いじげんウタンのみ	Hyper Payapa Berry		ZA
+2676	0A74	异次元扁樱果	いじげんタンガのみ	Hyper Tanga Berry		ZA
+2677	0A75	异次元草蚕果	いじげんヨロギのみ	Hyper Charti Berry		ZA
+2678	0A76	异次元佛柑果	いじげんカシブのみ	Hyper Kasib Berry		ZA
+2679	0A77	异次元莓榴果	いじげんハバンのみ	Hyper Haban Berry		ZA
+2680	0A78	异次元刺耳果	いじげんナモのみ	Hyper Colbur Berry		ZA
+2681	0A79	异次元霹霹果	いじげんリリバのみ	Hyper Babiri Berry		ZA
+2682	0A7A	异次元灯浆果	いじげんホズのみ	Hyper Chilan Berry		ZA
+2683	0A7B	异次元洛玫果	いじげんロゼルのみ	Hyper Roseli Berry		ZA
+2684	0A7C	卡娜莉面包	カナリィパン	Canari Bread		ZA
